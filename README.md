@@ -6,7 +6,6 @@ Useful for printing out api replies etc.
 ```swift
 // works with:
 debug << "..."
-debug << "Hello, world" + "!"
 // or with:
 debug << debugInfo
 
